@@ -7,12 +7,53 @@ sidebar_position: 2
 Discover the key features and capabilities of the Malyan M200 Ultra 3D printer.
 
 ## Core Features
+<img id="A+1-image" src="/img/A+1.jpg" />
+
 
 ### HIGH SPEED Printing
+<img id="A+2-image" src="/img/A+2.jpg" />
+
 - **Maximum Travel Speed**: Up to 600mm/s
 - **High-Speed Capability**: Optimized for rapid printing
+
+### Out-of-Box Ready
+<img id="A+5-image" src="/img/A+5.jpg" />
+
+### Auto Calibrates & And Leveling
+<img id="A+8-image" src="/img/A+8.jpg" />
+
 - **Resonance Compensation**: Advanced vibration control for high-speed operation
 - **Quality at Speed**: Maintains print quality even at high speeds
+
+
+### Camera Monitoring
+<img id="A+7-image" src="/img/A+7.jpg" />
+
+### Nozzle Wiper
+<img id="A+3-image" src="/img/A+3.jpg" />
+
+### More Detail
+
+<img id="A+9-image" src="/img/A+9.jpg" />
+
+### Programmable LED
+<img id="A+4-image" src="/img/A+4.jpg" />
+
+When printing starts, the LED lights will cycle through various colors 
+and flash.
+<img id="light1-image" src="/img/light1.png" />
+
+During filament cleaning, the lights display a red chasing marquee 
+effect.
+<img id="light2-image" src="/img/light2.png" />
+
+ While printing, the lights show a warm gradient transitioning from 
+yellow to red.Upon completion, the lights illuminate with a multicolor 
+gradient effect.
+
+<img id="light3-image" src="/img/light3.png" />
+
+### To customize the lighting effects (via script editing), please contact us for assistance.
 
 ### Quick-Disassembly Magnetic Build Plate
 - **Magnetic Platform**: Easy removal and replacement
@@ -76,40 +117,18 @@ Discover the key features and capabilities of the Malyan M200 Ultra 3D printer.
 ## Design Features
 
 ### Frame Construction
-- **All Aluminum Craftwork Frame**: Sturdy, lightweight construction
+- **Aluminum Craftwork Frame**: Sturdy, lightweight construction
 - **Open Frame Design**: Easy access for use and maintenance
 - **Vibration Control**: Resonance compensation for smooth operation
 - **Stable Structure**: Optimized for high-speed printing
 
-### Filament Handling
-- **Filament Rack**: Included with printer
-- **Auto Filament Detection**: Automatic detection system
-- **Smooth Path**: Optimized filament path
-- **Easy Loading**: Simple filament loading process
 
-## Software Features
-
-### Firmware Capabilities
-- **Marlin-Based**: Industry-standard firmware
-- **Auto Leveling**: Automatic bed leveling (if equipped)
-- **Power Recovery**: Resume after power loss
-- **Temperature Monitoring**: Real-time temperature display
-- **Customizable**: Open-source firmware for customization
 
 ### Slicer Compatibility
 - **Cura**: Full profile support and compatibility
 - **OrcaSlicer**: Full support with Malyan profiles
-- **OrcaSlicer-Malyan**: Included on USB storage with printer
 - **File Formats**: Supports .OBJ, .STL, .3MF files
 
-
-
-## Ready to Use
-
-- **Out of Box Ready**: Pre-assembled and ready to use
-- **Easy Setup**: Follow the instructions in the manual
-- **Sample Files**: Includes sample G-code files for testing
-- **Software Included**: OrcaSlicer-Malyan included on USB storage
 
 ---
 

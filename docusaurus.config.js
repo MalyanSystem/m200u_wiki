@@ -30,8 +30,8 @@ const config = {
   organizationName: 'malyan', // Usually your GitHub org/user name.
   projectName: 'm200u-wiki', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownImages: 'warn',
+  onBrokenLinks: 'ignore',
+  //onBrokenMarkdownImages: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you

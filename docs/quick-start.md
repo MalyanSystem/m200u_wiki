@@ -6,6 +6,19 @@ sidebar_position: 2
 
 Welcome to your new Malyan M200 Ultra! This guide will help you safely unpack and verify all components.
 
+## CUSTOMER SERVICE
+
+ The Malyan Customer Service department is dedicated to ensuring 
+that your ordering, purchasing, and delivery experience is second to 
+none. If you have any problem with your order, please give us an 
+opportunity to make it right. You can contact a MALYAN Customer 
+Service representative through：
+
+## Email:support@malyansys.com
+## WhatsApp:+86 19996851229
+
+
+
 ## Unboxing
 
 ### Main Components

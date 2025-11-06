@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Software Installation and Setup
@@ -47,7 +47,7 @@ The printer includes a USB storage device with **OrcaSlicer-Malyan** pre-install
 2. Install OrcaSlicer following installation instructions
 3. Add Malyan M200 Ultra profile (configuration wizard similar to Cura)
 
-## Configuration Wizard
+## OrcaSlicer Configuration Wizard
 
 When you first launch the slicing software, you'll be guided through a configuration wizard to set up your printer.
 
@@ -58,14 +58,14 @@ Click the **Continue** button to start the configuration process.
 ### Step 2: Region Selection
 
 Select your corresponding region and click **Continue**.
+<img id="soft1-image" src="/img/soft1.png" />
 
 ### Step 3: Printer Selection
 
 1. Enter **"Malyan"** in the search bar
-2. Select **"Malyan M200-SE"** (or M200 Ultra if available)
+2. Select **"Malyan M200-ULTRA"** 
 3. Click **Continue** to proceed
-
-**Note**: If "M200 Ultra" is not listed, select "M200-SE" as the base profile - they share similar specifications.
+<img id="soft2-image" src="/img/soft2.png" />
 
 ### Step 4: Material Selection
 
@@ -75,17 +75,17 @@ Select your corresponding region and click **Continue**.
    - ABS
 2. Select additional materials as needed
 3. Click **Finish** to complete the configuration
-
+<img id="soft3-image" src="/img/soft3.png" />
 ### Step 5: Start Using Software
 
 After configuration is complete:
 - Click **New Project** to get started
 - You can now load 3D model files and begin slicing
-
+<img id="soft4-image" src="/img/soft4.png" />
 ## Introduction to Menu Bar
 
 The slicing software interface includes the following menu options:
-
+<img id="soft5-image" src="/img/soft5.png" />
 ### 1. Home
 - Return to the homepage/main screen
 - Access to recent projects and quick actions
@@ -126,7 +126,7 @@ The slicing software interface includes the following menu options:
 ## Introduction to Parameters Bar
 
 The parameters bar provides access to printer and material configuration:
-
+<img id="soft6-image" src="/img/soft6.png" />
 ### 1. Create, Select, and Delete Printers
 - Add multiple printer profiles
 - Switch between different printers
@@ -212,38 +212,4 @@ The parameters bar provides access to printer and material configuration:
 - **Print Speed**: 40-60mm/s
 - **Layer Height**: 0.2-0.3mm
 - **Note**: Requires good ventilation
-
-## Tips for Best Results
-
-1. **Use Presets**: Start with material-specific presets and adjust as needed
-2. **First Layer**: Always check first layer settings - this is critical for adhesion
-3. **Support Material**: Enable supports for overhangs greater than 45 degrees
-4. **Layer Height**: Use 0.2mm for good balance of quality and speed
-5. **Infill**: 15-25% is usually sufficient for most prints
-6. **Brim/Raft**: Use brim for small parts, raft for better adhesion
-
-## Troubleshooting Software Issues
-
-### Printer Not Detected
-- Check USB connection
-- Verify network connection (if using WLAN)
-- Restart software and printer
-- Check printer is powered on
-
-### Slicing Errors
-- Check model for errors (use mesh repair tools)
-- Verify model scale and orientation
-- Ensure support material is properly configured
-- Check printer build volume limits (180×180×180mm)
-
-### Profile Issues
-- Re-run configuration wizard
-- Download latest printer profiles
-- Create custom profile based on specifications
-
----
-
-**Next Steps**: After software installation, proceed to:
-- [Print from USB Storage](/docs/usage/usb-printing)
-- [Print from Network Connection](/docs/usage/network-printing)
 
