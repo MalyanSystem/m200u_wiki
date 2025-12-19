@@ -6,6 +6,15 @@ sidebar_position: 1
 
 Welcome to the official wiki for the **Malyan M200 Ultra** 3D printer. This comprehensive documentation site contains everything you need to know about your printer, including product information, user manuals, software downloads, usage guides, maintenance instructions, and troubleshooting tips.
 
+## CUSTOMER SERVICE
+The Malyan Customer Service department is dedicated to ensuring that your ordering, purchasing, and delivery experience is second to none. If you have any problem with your order, please give us an opportunity to make it right. You can contact a MALYAN Customer Service representative through：
+
+Email:support@malyansys.com
+
+WhatsApp:+86 19996851229
+
+Malyan 3D Printer Official Group：https://www.facebook.com/share/g/16ptHkDQGx/
+
 ## About Malyan M200 Ultra
 
 The Malyan M200 Ultra is a **HIGH SPEED** 3D printer capable of printing at speeds up to 600mm/s. Designed for both beginners and experienced users, it features advanced technologies including resonance compensation, automatic bed leveling, and automatic filament detection. With its open frame design for ease of use and maintenance, and support for WLAN and USB storage printing, the M200 Ultra brings your creative ideas to life quickly and reliably.

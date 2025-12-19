@@ -9,29 +9,15 @@ Download the latest software and documentation for your Malyan M200 Ultra 3D pri
 ## Slicer Software
 
 ### Included Software
-- **OrcaSlicer-Malyan** - [Download OrcaSlicer for Malyan 3D Printer](http://m200u.mly.at/file/OrcaSlicer_Malyan_Windows_Installer_v2.3.1.exe)
+- **OrcaSlicer-Malyan** - [Download OrcaSlicer for Malyan 3D Printer](/file/OrcaSlicer_Malyan_Windows_Installer_v2.3.1.exe)
   - Pre-installed on USB storage included with printer
   - Pre-configured with Malyan M200 Ultra profiles
-  - Sample G-code files included
   - Ready to use out of the box
-
-### Recommended Slicers
-- **Cura** - [Download Cura](https://ultimaker.com/software/ultimaker-cura)
-  - Full compatibility with Malyan M200 Ultra
-  - Compatible with Windows, macOS, and Linux
-  - Use configuration wizard to add M200 Ultra profile
-  
-- **OrcaSlicer** - [Download OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
-  - Full support with Malyan profiles
-  - Compatible with Windows, macOS, and Linux
-  - Similar interface to included OrcaSlicer-Malyan
 
 ## Documentation
 
 ### User Manuals
-- [Complete User Manual (PDF)](#) - *Link to be updated*
-- [Quick Start Guide (PDF)](#) - *Link to be updated*
-- [Technical Specifications (PDF)](#) - *Link to be updated*
+- [Complete User Manual (PDF)](/file/M200ULTRA.pdf)
 
 ### Setup Guides
 - [Initial Setup Guide](/docs/getting-started/initial-setup)
