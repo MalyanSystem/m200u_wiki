@@ -17,7 +17,7 @@ Service representative through：
 ## Email:support@malyansys.com
 ## WhatsApp:+86 19996851229
 
-
+[How to download and use Malyan-OrcaSlicer](https://youtube.com/watch/CwDl1dMO4x8)
 
 ## Unboxing
 
@@ -137,14 +137,15 @@ The Malyan M200 Ultra features **Automatic Bed Leveling** and **Auto Resonance C
 5. Follow the on-screen prompts to load filament
 6. Watch for steady filament flow from the nozzle
 <img id="load-image" src="/img/load.jpg" />
+
 ## Step 4: Your First Print
 
-### Option A: Print from USB Storage
+### Option A: Print from Your USB Storage
 
 1. Open slicing software and configure for Malyan M200 Ultra (see [Software Installation](/docs/software/slicer-setup))
 2. Load a simple test model 
-3. Slice the model and export G-code to USB storage
-4. Insert USB storage into printer
+3. Slice the model and export G-code to your USB storage
+4. Insert your USB storage into printer
 5. On printer touchscreen, navigate to **File Management**
 6. Select your G-code file and start printing
 

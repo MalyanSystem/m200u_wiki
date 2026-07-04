@@ -54,14 +54,14 @@ sidebar_position: 0
 ### During Printing
 
 1. **Supervision**: Always supervise prints, especially during the first few layers
-2. **Ventilation**: Ensure adequate ventilation when printing with materials that produce fumes (ABS, PETG)
+2. **Ventilation**: Ensure adequate ventilation when printing with materials that produce fumes (PETG)
 3. **First Layer Watch**: Monitor the first layer closely to ensure proper adhesion
 4. **No Interference**: Do not interfere with the printer while it is operating
 
 ### Material Handling
 
 1. **Filament Storage**: Store filament in dry, sealed containers to prevent moisture absorption
-2. **Material Compatibility**: Only use materials compatible with your printer (PLA, PETG, ABS)
+2. **Material Compatibility**: Only use materials compatible with your printer (PLA, PETG)
 3. **Temperature Settings**: Always use appropriate temperature settings for your material
 4. **Clean Nozzle**: Keep the nozzle clean to prevent clogs and poor print quality
 
@@ -94,7 +94,7 @@ sidebar_position: 0
 
 - **Fire Extinguisher**: Keep a suitable fire extinguisher nearby (Class A, B, C)
 - **Smoke Detector**: Ensure smoke detectors are functional in the printing area
-- **First Aid**: Have a first aid kit accessible
+
 
 ## Compliance and Certification
 

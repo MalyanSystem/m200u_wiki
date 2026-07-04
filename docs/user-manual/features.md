@@ -64,13 +64,13 @@ gradient effect.
 ### Advanced Extruder
 - **Direct Drive**: Direct drive extruder for better control
 - **Temperature Range**: Up to 260°C nozzle temperature
-- **Multiple Materials**: Compatible with PLA, ABS, PETG, TPU, and more
+- **Multiple Materials**: Compatible with PLA,  PETG and more
 - **Precise Control**: Accurate filament feeding
 
 ### User-Friendly Interface
 - **OLED Capacitive Touchscreen**: Modern, responsive touch display
 - **Intuitive Menu**: Simple navigation system
-- **USB Storage Support**: Direct printing from USB storage device
+- **USB Storage Support**: Direct printing from your USB storage device
 - **WLAN Connection**: Network printing and remote monitoring
 
 ### Advanced Features
@@ -89,11 +89,11 @@ gradient effect.
 ### Printing Capabilities
 - **Layer Heights**: Compatible with standard layer height settings
 - **Print Speed**: Maximum travel speed of 600mm/s
-- **Material Compatibility**: PLA, PETG, ABS
+- **Material Compatibility**: PLA, PETG
 - **High-Speed Optimization**: Resonance compensation ensures quality at speed
 
 ### Connectivity Options
-- **USB Storage**: Primary printing method - print directly from USB storage device
+- **Your USB Storage**: Primary printing method - print directly from your USB storage device
 - **WLAN**: Network connection for remote printing and monitoring
 - **Offline Printing**: No computer required during printing
 - **IP Display**: Shows IP address when WiFi connection is successful
@@ -103,16 +103,16 @@ gradient effect.
 ### Supported Materials
 - ✅ **PLA** (Polylactic Acid) - Primary material
 - ✅ **PETG** (Polyethylene Terephthalate Glycol) - Strong and durable
-- ✅ **ABS** (Acrylonitrile Butadiene Styrene) - Durable prints
+
 
 ### Recommended Settings by Material
 
 | Material | Nozzle Temp | Bed Temp | Notes |
 |----------|-------------|----------|-------|
 | PLA | 190-210°C | 50-60°C | Easiest to print |
-| ABS | 230-250°C | 80-100°C | Requires enclosure recommended |
+
 | PETG | 220-240°C | 70-80°C | Strong and durable |
-| TPU | 220-240°C | 50-60°C | Flexible, slow speed |
+
 
 ## Design Features
 
@@ -125,7 +125,7 @@ gradient effect.
 
 
 ### Slicer Compatibility
-- **Cura**: Full profile support and compatibility
+
 - **OrcaSlicer**: Full support with Malyan profiles
 - **File Formats**: Supports .OBJ, .STL, .3MF files
 

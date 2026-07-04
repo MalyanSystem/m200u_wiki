@@ -2,18 +2,18 @@
 sidebar_position: 3
 ---
 
-# Print From Usb Storage By Using Orcaslicer Software
+# Print From Your Usb Storage By Using Orcaslicer Software
 
 ## Overview
 
-The Malyan M200 Ultra supports printing directly from USB storage devices. This allows you to:
+The Malyan M200 Ultra supports printing directly from your USB storage devices. This allows you to:
 - Print without keeping a computer connected
 - Transfer files easily via USB drive
 - Print multiple files by storing them on USB storage
 
 ## Prerequisites
 
-- USB storage device (USB drive/flash drive)
+- Your USB storage device (USB drive/flash drive)
 - Slicing software (OrcaSlicer) installed and configured
 - 3D model file in .OBJ, .STL, or .3MF format
 

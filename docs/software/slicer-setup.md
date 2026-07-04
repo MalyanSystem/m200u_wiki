@@ -10,7 +10,7 @@ Complete guide for installing and configuring slicing software for your Malyan M
 
 The Malyan M200 Ultra is compatible with the following slicing software:
 
-- **Cura** - Full support and compatibility
+
 - **OrcaSlicer** - Full support with Malyan profiles
 
 ## Supported File Types
@@ -24,22 +24,7 @@ Files are converted to G-code by the slicing software before printing.
 
 ## Software Installation
 
-### OrcaSlicer-Malyan (Included Software)
 
-The printer includes a USB storage device with **OrcaSlicer-Malyan** pre-installed, along with sample G-code files.
-
-**To use OrcaSlicer-Malyan:**
-
-1. Insert the included USB storage into your computer
-2. Locate the OrcaSlicer-Malyan installer
-3. Follow the installation instructions
-4. The software comes pre-configured with Malyan M200 Ultra profiles
-
-### Installing Cura
-
-1. Download Cura from the official website
-2. Install Cura following the standard installation process
-3. Follow the configuration wizard (see below) to add Malyan M200 Ultra
 
 ### Installing OrcaSlicer
 
@@ -72,7 +57,7 @@ Select your corresponding region and click **Continue**.
 1. Choose the materials you plan to use:
    - PLA (recommended for beginners)
    - PETG
-   - ABS
+   
 2. Select additional materials as needed
 3. Click **Finish** to complete the configuration
 <img id="soft3-image" src="/img/soft3.png" />
@@ -120,7 +105,7 @@ The slicing software interface includes the following menu options:
 
 ### 7. Export G-code File
 - Export the sliced G-code file
-- Save to USB storage or local drive
+- Save to your USB storage or local drive
 - File can be transferred to printer for printing
 
 ## Introduction to Parameters Bar
@@ -150,7 +135,7 @@ The parameters bar provides access to printer and material configuration:
 - Delete unused materials
 
 ### 5. Add, Select, and Delete Material Types
-- Choose material type (PLA, PETG, ABS)
+- Choose material type (PLA, PETG)
 - Create custom material profiles
 - Delete materials from library
 
@@ -206,10 +191,5 @@ The parameters bar provides access to printer and material configuration:
 - **Print Speed**: 30-60mm/s
 - **Layer Height**: 0.2-0.3mm
 
-### For ABS
-- **Nozzle Temperature**: 230-250°C
-- **Bed Temperature**: 80-100°C
-- **Print Speed**: 40-60mm/s
-- **Layer Height**: 0.2-0.3mm
-- **Note**: Requires good ventilation
+
 

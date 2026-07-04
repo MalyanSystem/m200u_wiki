@@ -14,19 +14,16 @@ Complete technical specifications for the Malyan M200 Ultra 3D printer.
 - **Weight**: Approximately 8-10 kg
 - **Footprint**: 310mm × 370mm
 
-### Frame
-- **Frame Material**: Aluminum and steel construction
-- **Frame Type**: Rigid box frame design
-- **Stability**: Low center of gravity for stability
+
 
 ## Mechanical Specifications
 
 ### Print Head
 - **Nozzle Diameter**: 0.4mm (standard)
-- **Nozzle Material**: Brass (standard)
-- **Maximum Temperature**: Compatible with PLA/PETG/ABS temperatures
+
+- **Maximum Temperature**: Compatible with PLA/PETG temperatures
 - **Heating Time**: Fast heating capability
-- **Extruder Type**: Direct drive extruder
+
 
 ### Build Plate
 - **Plate Type**: Quick-disassembly Magnetic Board
@@ -49,16 +46,16 @@ Complete technical specifications for the Malyan M200 Ultra 3D printer.
 - **Input Voltage**: 110V/220V AC
 - **Power Consumption**: Efficient power management
 - **Power Supply**: AC adapter included
-- **Fuse Protection**: Included
+
 
 ### Motors
-- **Stepper Motors**: NEMA 17 type
-- **Microstepping**: 1/16 microstepping
-- **Silent Operation**: TMC2208 or similar drivers (varies by model)
+
+
 
 ### Electronics
+
 - **Mainboard**: High-speed 3D printer control board
-- **Processor**: 32-bit ARM processor
+
 - **Memory**: Sufficient for complex prints
 - **Display**: OLED Capacitive Touchscreen
 - **Auto Filament Detection**: Yes - Automatic filament runout detection
@@ -73,7 +70,8 @@ Complete technical specifications for the Malyan M200 Ultra 3D printer.
 ### Filament Requirements
 - **Diameter Tolerance**: ±0.05mm
 - **Storage**: Keep dry, sealed containers recommended
-- **Moisture**: Low moisture content required
+
+
 
 ## Printing Specifications
 
@@ -98,7 +96,7 @@ Complete technical specifications for the Malyan M200 Ultra 3D printer.
 
 ### Interfaces
 - **USB Storage**: Primary printing interface
-  - Direct file transfer via USB storage device
+  - Direct file transfer via your USB storage device
   - Print from USB without computer connection
 
 - **WLAN (WiFi)**: 
@@ -115,24 +113,20 @@ Complete technical specifications for the Malyan M200 Ultra 3D printer.
 ### Firmware
 - **Firmware Type**: High-speed optimized firmware
 - **Firmware Version**: Check your printer's display menu
-- **Updatable**: Yes, via USB storage or network
+- **Updatable**: Yes, via your USB storage or network
 - **Resonance Compensation**: Built-in vibration control
 
 ### File Compatibility
 - **Slicer Output**: Standard G-code
 - **File Formats**: .OBJ, .STL, .3MF (as specified)
-- **Compatible Slicing Software**: Cura, OrcaSlicer
+- **Compatible Slicing Software**: OrcaSlicer
 
-## Environmental Specifications
+## 
 
-### Operating Conditions
-- **Temperature**: 15-30\degreC (59-86\degreF)
-- **Humidity**: 20-60% RH (non-condensing)
-- **Altitude**: Up to 2000m above sea level
-- **Ventilation**: Adequate airflow required
+### 
 
 ### Storage Conditions
-- **Temperature**: -10\degreC to 50\degreC (14\degreF to 122\degreF)
+
 - **Protection**: Cover when not in use
 
 ## Safety Specifications
@@ -151,7 +145,7 @@ Complete technical specifications for the Malyan M200 Ultra 3D printer.
 ## Warranty and Support
 
 ### Warranty
-- **Duration**: 1 year limited warranty (verify with purchase)
+
 - **Coverage**: Manufacturing defects
 - **Exclusions**: Normal wear, misuse, modifications
 

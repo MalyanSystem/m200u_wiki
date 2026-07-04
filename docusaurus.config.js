@@ -73,6 +73,7 @@ const config = {
             onBrokenMarkdownImages: 'throw',
             },      
     },
+    plugins: ['@devbookhq/docusaurus-code-video-plugin'],
 };
 
 export default config;
