@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'http://m200u.mly.at',
+  url: 'https://malyansystem.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/m200u_wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'malyan', // Usually your GitHub org/user name.
-  projectName: 'm200u-wiki', // Usually your repo name.
+  organizationName: 'MalyanSystem', // Usually your GitHub org/user name.
+  projectName: 'm200u_wiki', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   //onBrokenMarkdownImages: 'warn',
